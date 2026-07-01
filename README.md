@@ -70,6 +70,3 @@ Work-life balance appears to have a strong impact on employee retention and turn
 The Research & Development and Sales departments showed the highest employee attrition rates.
 
 ![Attrition by Department](department_attrition.png)
-Mahmoud Gomaa
-
-Aspiring Data Analyst | Python | Data Analysis | Data Visualization
