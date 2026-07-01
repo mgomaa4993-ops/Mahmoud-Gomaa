@@ -76,4 +76,6 @@ The Research & Development and Sales departments showed the highest employee att
 
 Mahmoud Gomaa
 
-Aspiring Data Analyst | Python | Data Analysis | Data Visualization
+Mahmoud Gomaa
+
+Aspiring Data Analyst | SQL | Python | Power BI | Excel
